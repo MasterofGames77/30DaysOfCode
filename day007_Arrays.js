@@ -22,9 +22,9 @@ const firstArr = [1, 4, 3, 2]
 reverseArray(firstArr)
 
 
-// Simplified version using the reverse and slice method
+// Simplified version using the reverse and slice methods
 // let numbers = [1, 4, 3, 2]
-// let reveredNumbers = numbers.slice().reverse()
+// let reversedNumbers = numbers.slice().reverse()
 
 // console.log(numbers)
-// console.log(reveredNumbers)
+// console.log(reversedNumbers)
