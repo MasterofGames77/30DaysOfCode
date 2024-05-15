@@ -8,7 +8,6 @@ function factorial(n)
         result *= i
     }
     return result
-    //console.log(result)
 }
 
 console.log(factorial(3))
