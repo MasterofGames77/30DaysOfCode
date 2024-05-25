@@ -1,3 +1,6 @@
+// Scope
+// Converted to JavaScript
+
 class Difference 
 {
     constructor(elements) 
