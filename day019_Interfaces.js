@@ -1,4 +1,4 @@
-// Inheritance
+// Interfaces
 // Originally written in TypeScript
 // Converted to JavaScript
 
